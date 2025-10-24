@@ -1,5 +1,5 @@
 ## The whole code is deployed in this vercel url
-https://iris-dashboard-neon.vercel.app/
+https://akinator-game-blush.vercel.app/  [[Due to cors error now its not interacting with backend]]
 
 ## Technologies used
 
@@ -35,7 +35,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # Ted-X
 https://ted-x-nitk-cinishines-projects.vercel.app/
 
-# WEC-GDG
+# iris-dashboard
 https://akinator-game-blush.vercel.app/  [Due to cors error now its not interacting with backend]
 
 # My GitHub Repos
